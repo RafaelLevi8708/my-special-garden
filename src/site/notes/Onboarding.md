@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/onboarding/","tags":["gardenEntry"]}
 ---
 
-- [x] [[Semana 1\|Semana 1]]
+- [ ] [[Semana 1\|Semana 1]]
 - [ ] [[Semana 2\|Semana 2]]
 - [ ] [[Semana 3\|Semana 3]]
 - [ ] [[Semana 4 (Apresentação final)\|Semana 4 (Apresentação final)]]
