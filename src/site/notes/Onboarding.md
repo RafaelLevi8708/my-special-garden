@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/onboarding/","tags":["gardenEntry"]}
 ---
 
-- [ ] [[Semana 1\|Semana 1]]
+- [x] [[Semana 1\|Semana 1]]
 - [ ] [[Semana 2\|Semana 2]]
 - [ ] [[Semana 3\|Semana 3]]
 - [ ] [[Semana 4 (Apresentação final)\|Semana 4 (Apresentação final)]]
@@ -11,4 +11,4 @@ Cronograma: https://docs.google.com/spreadsheets/d/1nIFLnsnHXj2qkZLf1mnTd3H1Sk4p
 DV: https://drive.google.com/file/d/10ueahXfv8WhFeqVAjuVGzNod7iawNBor/view
 MEC: https://drive.google.com/file/d/1UN-hQ7suAoMi1_jX3alk9G4il19O9HRZ/view
 ELE: https://drive.google.com/file/d/1ZS6SO22ymi8EtgCpNKTnI8q_oBsU5Nwy/view
-ADM: https://drive.google.com/file/d/1Fc-QUxvlXYpg8qrRj_BpovCk7kJeExfb/view
+ADM: https://drive.google.com/file/d/1Fc-QUxvlXYpg8qrRj_BpovCk7kJeExfb/viewm
