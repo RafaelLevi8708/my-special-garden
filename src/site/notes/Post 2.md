@@ -17,3 +17,5 @@ Pensem nisso e discutam como podem transmitir essas ideias.
 esclarecer ainda mais o objetivo do post e complementá-lo .
 
 Obs.: O post poderá ser feito por meio de designs (imagens) ou vídeo formato reels (16:9).
+
+https://docs.google.com/document/d/10aiAu2EeZ6X1YbWTSUJSR8HjGlBpG9LsGz9tdASXWcA/edit?tab=t.0
