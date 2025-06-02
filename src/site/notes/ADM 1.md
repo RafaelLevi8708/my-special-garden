@@ -3,6 +3,6 @@
 ---
 
 
-- [ ] [[Post 2\|Post 2]]
+- [x] [[Post 2\|Post 2]]
 - [x] [[Backlog\|Backlog]]
 - [x] [[Calendario\|Calendario]]

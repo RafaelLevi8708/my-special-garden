@@ -12,6 +12,4 @@ módulos principais (fonte, processamento, atuadores e sensores).
 ○ Tipo (digital, analógico, alimentação, comunicação)
 ○ Tensão e corrente típica
 ○ Frequência (se aplicável)
-
-Ex:
-![Pasted image 20250530032432.png](/img/user/Pasted%20image%2020250530032432.png)
+![Design sem nome 1.jpg](/img/user/Design%20sem%20nome%201.jpg)
