@@ -8,7 +8,7 @@ ao longo dessas 5 semanas. Enriqueçam a apresentação com detalhes, fotos,
 registros, tudo o que acharem pertinente e necessário para demonstrar que vocês
 
 conseguiram compreender bem o que era esperado de vocês no onboarding como
-um todo, incluindo as demais áreas da equipe (ELE, MEC e DV).
+um todo, incluindo as demais áreas da equipe ([[ELE\|ELE]] , [[MEC\|MEC]] e [[DV\|DV]] ).
 ● Dessa vez, vocês prepararão uma apresentação de slides utilizando a ferramenta
 que preferirem (Canva, Google Apresentações, PowerPoint...). Nela, deve conter
 uma “linha do tempo” da equipe de vocês, de forma que o progresso do grupo seja
