@@ -9,4 +9,4 @@
 ○ Corrente de descarga
 ○ Proteções integradas (BMS, se houver)
 - [x] Calcular e justificar a autonomia estimada do veículo com a bateria selecionada, considerando o consumo médio em operação.
-- [ ] Todos os sistemas do veículo devem estar protegidos contra picos de corrente
+- [x] Todos os sistemas do veículo devem estar protegidos contra picos de corrente
