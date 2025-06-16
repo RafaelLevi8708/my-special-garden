@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/ele-3/"}
 ---
 
-- [ ] [[Manual\|Manual]]
+- [x] [[Manual\|Manual]]
 - [ ] [[Chicote\|Chicote]]

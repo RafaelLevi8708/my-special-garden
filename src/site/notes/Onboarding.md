@@ -4,7 +4,7 @@
 
 - [x] [[Semana 1\|Semana 1]]
 - [x] [[Semana 2\|Semana 2]]
-- [ ] [[Semana 3\|Semana 3]]
+- [x] [[Semana 3\|Semana 3]]
 - [ ] [[Semana 4 (Apresentação final)\|Semana 4 (Apresentação final)]]
 Geral: https://drive.google.com/file/d/1ocum3nK1GUpk-xZKl8CcNyOucEkk2Sri/view
 Cronograma: https://docs.google.com/spreadsheets/d/1nIFLnsnHXj2qkZLf1mnTd3H1Sk4pooV619RfPZHHWzs/edit?gid=0#gid=0
