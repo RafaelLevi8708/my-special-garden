@@ -3,4 +3,4 @@
 ---
 
 - [x] [[Manual\|Manual]]
-- [ ] [[Chicote\|Chicote]]
+- [x] [[Chicote\|Chicote]]
