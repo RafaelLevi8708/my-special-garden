@@ -18,3 +18,5 @@ marketing da equipe foi pensado realmente foi efetivo, ou seja, se teve um bom
 alcance, visualizações, interações etc.
 
 - [ ] [[Doc 4\|Doc 4]]
+- [ ] [[Slides\|Slides]]
+- [ ] [[Revisão geral\|Revisão geral]]
